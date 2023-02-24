@@ -1,4 +1,4 @@
-# Node supertest tutorial
+# Automated Testing using supertest
 
 Testing http APIs using supertest and Jest
 
