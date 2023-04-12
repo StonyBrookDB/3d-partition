@@ -17,15 +17,15 @@
       "http://purl.obolibrary.org/obo/UBERON_0001284",
       "http://purl.obolibrary.org/obo/UBERON_0002189"
     ],
-    "x_dimension": 10,
-    "y_dimension": 10,
-    "z_dimension": 10,
+    "x_dimension": 10000000,
+    "y_dimension": 1000000,
+    "z_dimension": 1000000,
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
       "@id": "http://purl.org/ccf/1.5/6d000077-6866-42e5-8af8-eb068239747a_placement",
       "@type": "SpatialPlacement",
-      "target": "http://purl.org/ccf/latest/ccf.owl#VHFLeftKidneyV1.1",
+      "target": "http://purl.org/ccf/latest/ccf.owl#VHFLeftEye",
       "placement_date": "2022-10-19",
       "x_scaling": 1,
       "y_scaling": 1,
@@ -36,9 +36,9 @@
       "z_rotation": 0,
       "rotation_order": "XYZ",
       "rotation_units": "degree",
-      "x_translation": 25.536,
-      "y_translation": 94.007,
-      "z_translation": 3.79,
+      "x_translation": 205.536,
+      "y_translation": 904.007,
+      "z_translation": 30.79,
       "translation_units": "millimeter"
     }
   }
